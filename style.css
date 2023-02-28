@@ -1,0 +1,98 @@
+/* Feel free to change any of the styling below!*/
+body {
+    text-align: center;
+background-color:black;
+}
+
+img{
+    width: 600px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  height: 20px;
+}
+
+p {
+    font-weight: 800;
+  color:#a3ffa3;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+.room{
+  display:none;
+}
+button:hover{
+  background-color: #b6c4b5;
+}
+
+/* .cabinetgif{
+  display:none;
+}
+.storagegif{
+  display:none;
+}
+.watcher{
+  display:none;
+}
+.altargif{
+  display:none;
+}
+.watcher1img{
+  display:none;
+}
+.mainroom{
+  display:none;
+}
+ */
+
+.startScreen{
+  display:block;
+}
+
+.begin{
+  display:block
+}
+/* .cabinet{
+  display:none;
+}
+.storage{
+  display:none;
+}
+.blob{
+  display:none;
+}
+.altar{
+  display:none;
+
+}
+.watcherb{
+  display:none;
+}
+.cback{
+  display:none;
+}
+.sback{
+  display:none;
+}
+.aback{
+  display:none;
+}
+.wback{
+  display:none;
+}
+.wwback{
+  display:none;
+}
+.item {
+  display:none;
+} */
